@@ -98,6 +98,6 @@
 
     // Log the result
     console.log(`The total number of children for all people is: ${totalChildren}`);
-}
+
 // Outputs one string per person formatted as such: name: Age Output all properties of all people using for…in Ex.: name: Freddy McCready Birth Date:  7/1/1987 Children: 3 Country: Australia Can program: Yes
 
